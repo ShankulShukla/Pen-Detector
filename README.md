@@ -11,4 +11,5 @@ I have being working on google object detection api and coco dataset, what i fin
 * Labelling the images - [labelImg](https://github.com/tzutalin/labelImg)
 * Object detection api - [tensorflow object detection](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
+### If you are downloading my dataset please change the .xml annotations by my xml_parser.py script to your local system location where you save your images.
 ### Do create your own dataset and train object_detection api on it and see the results.
