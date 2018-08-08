@@ -2,7 +2,7 @@
 I have being working on google object detection api and coco dataset, what i find is that the pen were not in the list of the detectable object , so i grabbed some tool mentioned in the readme and does some transfer learning to train a model for detecting pens with my own created dataset.
 
 # How to run ..
-1. Clone this repo and paste it into your objection detection api models/research/object_detection folder.
+1. Clone this repo and paste it into your objection detection api folder i.e, models/research/object_detection folder.
 2. Run the pen_detector.ipynb notebook.
 > First you should set up your tensorflow  object detection api. Tutorial - [Medium](https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-1-selecting-a-model-a02b6aabe39e) 
 
