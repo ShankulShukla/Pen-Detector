@@ -3,7 +3,7 @@ I have being working on google object detection api and coco dataset, what i fin
 
 # How to run ..
 1. Clone this repo and paste all its content into your objection detection api folder i.e,  /models/research/object_detection folder.
-2. Run the pen_detector.ipynb notebook.
+2. Run the pen_detector.py from command prompt(from this directory only).
 > First you should set up your tensorflow  object detection api. Tutorial - [Medium](https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-1-selecting-a-model-a02b6aabe39e) 
 
 ## Tools used - 
